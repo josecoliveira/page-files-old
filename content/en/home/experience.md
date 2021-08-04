@@ -106,7 +106,7 @@ experience:
       Georeferencing and the internet as tools for dengue mosquito control
       (*Aedes aegypti*) in Salinas - MG.
         
-        Advisors: Filipe Vieira Santos de Abreu and Patricia de Oliveira Lucas. FAPEMIG Scolarship.
+        Advisors: Filipe Vieira Santos de Abreu and Patricia de Oliveira Lucas. FAPEMIG Scholarship.
         
         Created and maintained a website in WordPress with data about ovitraps and larvitraps for degue mosquito (*Aedes aegypti*) at two neighborhoods at Salinas over a year.
         

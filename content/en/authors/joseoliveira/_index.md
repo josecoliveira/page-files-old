@@ -34,7 +34,7 @@ education:
   - course: BS in Computer Science
     institution: Universidade Federal de Minas Gerais (UFMG)
     year: 2015 - 2020
-  - course: Computer Tecnician
+  - course: Computer Technician
     institution: Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG)
     year: 2012 - 2014
 
